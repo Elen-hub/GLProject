@@ -1,4 +1,6 @@
 *.*
 */*
-*.cpp
-*.h
+/Debug/
+/Release/
+*.jpg
+*.bmp
