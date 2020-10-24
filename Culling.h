@@ -4,11 +4,7 @@
 class Culling
 {
 public:
-	Culling()
-	{
-		glCullFace(GL_CW);
-		glFrontFace(GL_CCW);
-	}
+	Culling();
 	inline void Enabled()
 	{
 		glEnable(GL_CULL_FACE);
