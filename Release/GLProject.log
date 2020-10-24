@@ -1,0 +1,12 @@
+﻿  AntiAliasing.cpp
+A:\Users\telle\Desktop\OpenGLProject\GLProject\GLProject\AntiAliasing.h(2,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'GL/glaux.h': No such file or directory
+  Camera.cpp
+A:\Users\telle\Desktop\OpenGLProject\GLProject\GLProject\Camera.cpp(2,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'GL/glut.h': No such file or directory
+  Culling.cpp
+A:\Users\telle\Desktop\OpenGLProject\GLProject\GLProject\Culling.h(2,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'GL/glaux.h': No such file or directory
+  GLProject.cpp
+A:\Users\telle\Desktop\OpenGLProject\GLProject\GLProject\Light.h(3,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'GL/glut.h': No such file or directory
+  Light.cpp
+A:\Users\telle\Desktop\OpenGLProject\GLProject\GLProject\Light.h(3,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'GL/glut.h': No such file or directory
+  Planet.cpp
+A:\Users\telle\Desktop\OpenGLProject\GLProject\GLProject\Planet.h(3,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'GL/glaux.h': No such file or directory
